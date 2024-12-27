@@ -103,7 +103,7 @@
 	dodge_rock = 1
 
 	// Max angle difference between the tank's rock current direction and the direction to the bot when deciding whether the bot should dodge the rock or not
-	dodge_rock_diffangle = 8
+	dodge_rock_diffangle = 10
 
 	// Maximum distance to travel when dodging tank rocks
 	dodge_rock_maxdistance = 600
